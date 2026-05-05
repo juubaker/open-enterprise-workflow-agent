@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+audit.log
+*.log
+.DS_Store
+.vscode/*.local.json
+coverage/
+web/node_modules/
+web/dist/
